@@ -1,0 +1,7 @@
+../BSP/LCD/Src/lcd.c:23:6:LCD_Init	8	static
+../BSP/LCD/Src/lcd.c:65:6:LCD_Send_Command	32	static
+../BSP/LCD/Src/lcd.c:82:6:LCD_Send_Data	32	static
+../BSP/LCD/Src/lcd.c:101:6:LCD_Clear	8	static
+../BSP/LCD/Src/lcd.c:110:6:LCD_Print	16	static
+../BSP/LCD/Src/lcd.c:121:7:Init_GPIO_I2C	32	static
+../BSP/LCD/Src/lcd.c:144:7:Init_I2C	16	static
